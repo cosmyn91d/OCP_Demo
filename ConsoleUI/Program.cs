@@ -25,7 +25,8 @@ namespace ConsoleUI
                 new PersonModel { FirstName = "Dan", LastName = "Mihai" },
                 new PersonModel { FirstName = "Daniel", LastName = "Ionut" },
                 new PersonModel { FirstName = "Florin", LastName = "Popescu"},
-                new PersonModel { FirstName = "Eduard", LastName = "Cosmin" }
+                new PersonModel { FirstName = "Eduard", LastName = "Cosmin" },
+                new PersonModel { FirstName = "Alin", LastName = "Ionut" }
             };
 
             List<EmployeeModel> employees = new List<EmployeeModel>();

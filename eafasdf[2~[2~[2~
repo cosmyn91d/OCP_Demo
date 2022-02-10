@@ -1,0 +1,88 @@
+[33mcommit 01c8cd8e468603e80710c60537ac93dd271dd4e5[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m
+Author: Eduard Cosmin Dita <Eduard-Cosmin.Dita@endava.com>
+Date:   Thu Feb 10 08:22:51 2022 +0200
+
+    DEV Commit 1
+
+[33mcommit c4ccf077480bbc2b2ce7467850f3264e89b7de3a[m[33m ([m[1;31morigin/dev[m[33m)[m
+Author: Eduard Cosmin Dita <Eduard-Cosmin.Dita@endava.com>
+Date:   Wed Feb 9 14:47:39 2022 +0200
+
+    Modified Accounts
+
+[33mcommit d2f987eeee1b6f89581c8856a110fa2617b2bcee[m
+Merge: 3b03ec9 fa963eb
+Author: Eduard Cosmin Dita <Eduard-Cosmin.Dita@endava.com>
+Date:   Wed Feb 9 14:40:20 2022 +0200
+
+    Merge Program class
+
+[33mcommit fa963ebd499bbf0c4fdd0e6b6bcf86234a1d9a3f[m
+Merge: b11e3fc 0cf7634
+Author: AlexandraSauchea <99249620+AlexandraSauchea@users.noreply.github.com>
+Date:   Wed Feb 9 14:21:24 2022 +0200
+
+    Merge pull request #1 from cosmyn91d/feature
+    
+    Feature
+
+[33mcommit 0cf76347657ba8c1e50fe093a2f711fabf4518cb[m
+Author: Alexandra Teodora Sauchea <Alexandra-Teodora.Sauchea@endava.com>
+Date:   Wed Feb 9 14:18:28 2022 +0200
+
+    add person Florin
+
+[33mcommit 3b03ec9939d9c1198c6538e745e14fb7647435f5[m
+Author: Eduard Cosmin Dita <Eduard-Cosmin.Dita@endava.com>
+Date:   Wed Feb 9 14:17:27 2022 +0200
+
+    added new person Cosmin
+
+[33mcommit 404a195df671b79194004f7730454afd0c462515[m
+Author: Alexandra Teodora Sauchea <Alexandra-Teodora.Sauchea@endava.com>
+Date:   Wed Feb 9 14:04:21 2022 +0200
+
+    change on personal branch
+
+[33mcommit b11e3fc2e3b02c4baa08133fa55bdb93ad5cedb3[m
+Author: Alexandra Teodora Sauchea <Alexandra-Teodora.Sauchea@endava.com>
+Date:   Wed Feb 9 14:01:06 2022 +0200
+
+    delete ch from master
+
+[33mcommit 70c33339f5417e72353a03c7d56a36030bd6599a[m
+Author: Alexandra Teodora Sauchea <Alexandra-Teodora.Sauchea@endava.com>
+Date:   Wed Feb 9 13:55:41 2022 +0200
+
+    changed master file by Ali
+
+[33mcommit 84d0690bbf3039226a176ff55bbce181a456b2be[m
+Author: Eduard Cosmin Dita <Eduard-Cosmin.Dita@endava.com>
+Date:   Wed Feb 9 12:13:04 2022 +0200
+
+    first change
+
+[33mcommit 1f2bafbc875fc68d15d0a0d1998ade6c3392bdff[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: fac8196 5461f13
+Author: Eduard Cosmin Dita <Eduard-Cosmin.Dita@endava.com>
+Date:   Wed Feb 9 11:51:49 2022 +0200
+
+    Merge github.com:cosmyn91d/OCP_Demo
+
+[33mcommit fac8196cfdc1cb8b9f9e3cc29f79a8e407aaa51f[m
+Author: Eduard Cosmin Dita <Eduard-Cosmin.Dita@endava.com>
+Date:   Wed Feb 9 11:50:16 2022 +0200
+
+    inital commit
+
+[33mcommit 5461f1356418c0f9d915bc79e03b7f63d8f6f985[m
+Author: cosmyn91d <74113218+cosmyn91d@users.noreply.github.com>
+Date:   Wed Feb 9 11:47:30 2022 +0200
+
+    Update README.md
+
+[33mcommit 9179492ed5af172ff1c7a281cd803d85fab5a5d9[m
+Author: cosmyn91d <74113218+cosmyn91d@users.noreply.github.com>
+Date:   Wed Feb 9 10:10:48 2022 +0200
+
+    Initial commit
